@@ -1,7 +1,7 @@
 # patikaOdev
-## Patika Ödevlerimin Bulundurduğum Repositroy'e Hoş Geldiniz!
+## Patika Ödevlerimin Bulundurduğum Repostory'e Hoş Geldiniz!
 
-İlk olarak, ilk görünen *kodluyoruzilkrepo patika'nın verdiği ilk ödevdir.
+İlk olarak, ilk görünen *kodluyoruzilkrepo* patika'nın verdiği ilk ödevdir.
 
 Java Modülüne Ait Ödevler
 - Dik Üçgen Hesaplama
