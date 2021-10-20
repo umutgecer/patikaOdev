@@ -1,5 +1,5 @@
 # patikaOdev
-## Patika Ödevlerimin Bulundurduğum Repostory'e Hoş Geldiniz!
+## Patika Ödevlerimin Bulunduğu Repostory'e Hoş Geldiniz!
 
 İlk olarak, ilk görünen **kodluyoruzilkrepo** patika'nın verdiği ilk ödevdir.
 
