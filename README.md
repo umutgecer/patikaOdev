@@ -7,3 +7,5 @@ Java Modülüne Ait Ödevler
 - Dik Üçgen Hesaplama
 - KDV Tutarı Hesaplayan Program
 - Not Ortalaması
+- Taksimetre Hespalayan Program
+- Dairenin Alanın ve Çevresini Hesaplayan Program
