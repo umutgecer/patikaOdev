@@ -10,7 +10,7 @@ public class HesapMakinesi {
         System.out.print("İkinci Sayiyi Giriniz: ");
         s2 = sayiAl.nextInt();
 
-        System.out.print("1.Toplama\n2.Çıkarma\n3.Çarpma\n4.Bölme \n Yapılacak İşlemi Seçiniz: ");
+        System.out.print("1.Toplama\n2.Çıkarma\n3.Çarpma\n4.Bölme\n5.Mod Alma\n Yapılacak İşlemi Seçiniz: ");
         islem = sayiAl.nextInt();
 
         switch (islem) {
@@ -25,6 +25,9 @@ public class HesapMakinesi {
                 break;
             case 4:
                 System.out.println(s1 + " ile " + s2 + " sayisinin toplamı: " + (s1 / s2));
+                break;
+            case 5:
+                System.out.println(s1 + " ile " + s2 + " sayisinin değeri: " + (s1 % s2));
                 break;
             default:
                 System.out.println("Girilen Değer Geçersiz Lütfen Tekrar Deneyeniz");
